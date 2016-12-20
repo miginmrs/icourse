@@ -35,7 +35,7 @@ y=pow(g,x,n)
 
 DD
 	,'description'=><<<DD
-Ceci est l'algorithme de chiffrement. Essayer de le comprendre et de trouver son inverse afin de déchiffrer le message donné: <br/>
+Ceci est l'algorithme de chiffrement ElGamal. Essayer de le comprendre et de trouver son inverse afin de déchiffrer le message donné: <br/>
 Exemple: <br/>
 <ul>
 <li> <b>entrée (hex):</b> 77d67c08a4ea38c6c152b9b3e2efb2214bf1e3f4652a26dff7032696df32ddd13b9be3a75c4a1e965732f60a719b625d5b9842cc04de88f365ee6083af59bd7b26e26f75ab6341a39f00e98a4f5ce3340f4ff7710f18c341f9e7f4e807f6933dcbe12d2fcc417072e0a8fb6366303a17c25a6c67bbaf8e220c55fcede4a8b95fc8cd5ac5bbaa478f3bea8e7aa28407ac70a113c86f7dc352fa4dcc9198d145e0eef307ec54af93e33b3b42ea9c36ab4c756b1f86ea4d6eca5701f43518b01dc58e3bd988f05aa0ef7a55b7f4c391e805285b7c6d07b0c2fdfe4844f2085cd1bd0810d492bdc3136707b6f605c57499a28ff4bac439d890bbcf1e7142f028c51 
